@@ -35,8 +35,8 @@
     --smaller-font-size: .75rem;
 
     /*========== Font weight ==========*/
-    --font-medium: ;
-    --font-semi-bold: ;
+    --font-medium: 500;
+    --font-semi-bold: 600;
 
     /*========== Margenes Bottom ==========*/
     /* .25rem = 4px, .5rem = 8px, .75rem = 12px ... */
